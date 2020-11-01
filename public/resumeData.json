@@ -125,7 +125,7 @@
         "category":"Developed a full-stack website in this way where it can detect the entrance of user or admin and can show the result according to the user or admin.",
         "tech":"React, React Router, Bootstrap, Node.js, MongoDB, Firebase Authentication, Heroku.",
         "image":"creative-agency.png",
-        "url":": https://creative-agency-kba.web.app/"
+        "url":"https://creative-agency-kba.web.app/"
       }
     ]
   },
