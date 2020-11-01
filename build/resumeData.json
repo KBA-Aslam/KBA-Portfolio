@@ -1,0 +1,144 @@
+{
+  "main": {
+    "name":"Khalid Bin Abdullah",
+    "occupation":"(Your Occupation Here)",
+    "description":"I can Build or resolve your Website your website with some SUPER-NATURAL things you only watch on the SuperHero movies. It's time to turn on your rooftop light. But i'm smarter than Batman. You can order me By My LinkedIn.",
+    "image":"profilepic.png",
+    "bio":"A professional front-end developer. Proficient in HTML, CSS, Javascript using a modern library such as React JS. Have some reasonable knowledge in Backend tools like Node JS, MongoDB etc.",
+    "bio2":" I don’t like to define myself by the work I’ve done. I define myself by the work I want to do. Skills can be taught, personality is inherent. I prefer to keep learning, continue challenging myself, and do interesting things that matter.",
+    "contactmessage":"You don't need to put a Rooftop Light. Just write your Special wishes Here.",
+    "email": "kbasayemaslam@gmail.com",
+    "phone": "+88016 4229 4299",
+    "address":{
+      "street":"(17/3, Noimuddin molla Road)",
+      "city":"(Tongi, Gazipur)",
+      "state":"(Dhaka)",
+      "zip": "(1730)"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://drive.google.com/file/d/1Rv4fA_XglDw5s34qlzIFi4B8eO5Vr-P2/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/kbasayem",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/khalid-bin-abdullah-13231a1b7",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/KBA.Aslam",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"A potential learner is hundred times better than a skilled worker. I always try to learn always from everywhere.",
+    "education":[
+      {
+        "school":"Hubei University og Technology",
+        "degree":"Bachelor in Software Engineering",
+        "graduated":"Running",
+        "description":"As a international student in Wuhan, China there are too many knowledge i'm gaining from the university and the localozation. Learning programming in one of the most Technology Friendly City in the world."
+      },
+      {
+        "school":"Tamirul MIllat Kamil Madrasha",
+        "degree":"Higher School Certificate",
+        "graduated":"June 2017",
+        "description":"Passed with GPA: 5.00 out of 5.00. and so much practical lesson about life and profession."
+      },
+      {
+        "school":"Tamirul MIllat Kamil Madrasha",
+        "degree":"Secondary School Certificate",
+        "graduated":"March 2015",
+        "description":"Passed with GPA: 5.00 out of 5.00. and so much practical lesson about life and profession."
+      }
+    ],
+    "work":[
+      {
+        "company":"Programming Hero",
+        "title":"Senior Learner",
+        "years":"June 2020 - Present",
+        "description":"Have done some Projects with a very experienced team. Learned very much professional stuff."
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML5",
+        "level":"90%"
+      },
+      {
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"Bootstap",
+        "level":"90%"
+      },
+      {
+        "name":"Material-UI",
+        "level":"55%"
+      },
+      {
+        "name":"Git",
+        "level":"80%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"95%"
+      },
+      {
+        "name":"NodeJS",
+        "level":"60%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Travel Guru",
+        "category":"Created a travel website where users can book his/her suitable place. After the authentication system, the user can see the rooms available in that place.",
+        "tech":"React, React Router, Bootstrap, Material UI, Firebase Authentication.",
+        "image":"travel-guru.png",
+        "url":"https://travel-guru-kba.web.app/"
+      },
+      {
+        "title":"Volunteer Network",
+        "category":"Engineered the full-stack website so that users can choose any volunteer work and using the authentication system, user can see all his/her registered volunteer work.",
+        "tech":" React, Bootstrap, Node.js, MongoDB, Firebase Authentication, Heroku.",
+        "image":"v-l.png",
+        "url":"https://volunteer-network-kba.web.app/"
+      },
+      {
+        "title":"Creative Agency",
+        "category":"Developed a full-stack website in this way where it can detect the entrance of user or admin and can show the result according to the user or admin.",
+        "tech":"React, React Router, Bootstrap, Node.js, MongoDB, Firebase Authentication, Heroku.",
+        "image":"creative-agency.png",
+        "url":": https://creative-agency-kba.web.app/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Sometimes a student does a better job than the master. He is the ideal example of this. Sometimes I call him to help me if I am stuck with an issue.",
+        "user":"Jhankar Mahbub [Mentor]"
+      },
+      {
+        "text":"A potential learner is hundred times better than a skilled worker. Khalid is That type of Learner",
+        "user":"Insha allah... Someone will say oneday."
+      }
+    ]
+  }
+}
